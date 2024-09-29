@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Vahn
+name: Severine Habert
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: AI Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: TUM, Intel
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,9 +34,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Computer Science
+    institution: TUM 
+    year: 2018
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
